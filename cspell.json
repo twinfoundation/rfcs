@@ -1,0 +1,4 @@
+{
+	"ignorePaths": ["commitlint.config.mjs"],
+	"words": ["Stiftung"]
+}
