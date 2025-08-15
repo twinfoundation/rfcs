@@ -1,6 +1,5 @@
----
-
 name: RFC Proposal
+title: "[RFC] "
 description: Propose a new RFC for the TWIN Foundation
 labels: rfc, proposal
 body:

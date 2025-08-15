@@ -1,11 +1,11 @@
-# RFC Template
+# RFC Example
 
-- **RFC Number**: (assigned by PR, e.g., 0001)
-- **Title**: (short, descriptive)
-- **Author(s)**: (name and/or GitHub handle)
-- **Status**: Proposed / Accepted / Rejected / Implemented
-- **Created**: (date)
-- **Updated**: (date)
+- **RFC Number**: 0000
+- **Title**: An Example Of An RFC
+- **Author(s)**: @obany
+- **Status**: Accepted
+- **Created**: 2025-08-15
+- **Updated**: 2025-08-15
 
 ## Summary
 
